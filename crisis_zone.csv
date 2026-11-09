@@ -1,0 +1,31 @@
+zone_id,zone_name,crisis_type,lat,lon,population_affected,severity,vulnerable_pct,road_access,ambulances_needed,medical_kits_needed,food_packets_needed,shelter_beds_needed
+Z01,Riverside,Cyclone,12.9612,77.5349,43905,2,11,Blocked,14,1097,29270,2926
+Z02,Old Town,Wildfire,12.9079,77.5234,37741,1,15,Blocked,6,471,12580,1258
+Z03,Harbor,Earthquake,13.079,77.6753,41453,1,21,Good,6,518,13817,1381
+Z04,Hillcrest,Flood,13.0897,77.5399,31439,4,21,Partial,20,1570,41918,4190
+Z05,Greenfield,Cyclone,12.9256,77.595,20210,2,19,Partial,6,505,13473,1347
+Z06,Market Square,Flood,13.0824,77.6341,41565,2,20,Good,13,1039,27710,2770
+Z07,Lakeside,Cyclone,13.0443,77.6761,38178,3,9,Blocked,18,1431,38178,3817
+Z08,Northgate,Flood,13.1138,77.7166,16935,4,20,Partial,10,846,22580,2257
+Z09,Southend,Cyclone,12.9407,77.5888,31714,4,29,Partial,20,1584,42285,4228
+Z10,Eastbrook,Earthquake,13.0335,77.5612,44469,1,22,Partial,7,555,14823,1482
+Z11,Westwood,Earthquake,13.0712,77.7107,19691,5,32,Good,15,1230,32818,3281
+Z12,Central,Cyclone,13.0003,77.5165,17010,5,26,Blocked,12,1062,28350,2835
+Z13,Airport Road,Wildfire,12.9989,77.7286,22622,2,22,Good,7,565,15081,1508
+Z14,Mill Valley,Cyclone,13.0868,77.6071,19359,2,26,Partial,6,483,12906,1290
+Z15,Stonebridge,Earthquake,13.0274,77.5227,25723,2,9,Good,8,643,17148,1714
+Z16,Redfort,Wildfire,13.0491,77.5962,12016,4,27,Partial,8,600,16021,1601
+Z17,Sunrise Colony,Flood,13.0701,77.5286,36676,2,25,Partial,12,916,24450,2444
+Z18,Palm Grove,Cyclone,13.0087,77.6134,44006,3,31,Blocked,21,1650,44006,4400
+Z19,Ironworks,Earthquake,13.0269,77.5266,19261,5,28,Partial,15,1202,32101,3210
+Z20,Cedar Park,Earthquake,12.9382,77.6906,43874,3,25,Blocked,21,1644,43874,4387
+Z21,Fisherman Bay,Wildfire,12.9049,77.7323,2037,4,34,Partial,1,100,2716,270
+Z22,Temple Hill,Flood,12.9214,77.6215,17692,1,10,Blocked,2,221,5897,589
+Z23,Metro Junction,Wildfire,13.1367,77.5413,10241,2,24,Blocked,3,256,6827,682
+Z24,Silver Creek,Earthquake,13.0782,77.5997,29730,5,29,Blocked,22,1857,49550,4955
+Z25,Rosewood,Wildfire,12.9303,77.5562,26472,3,18,Good,12,991,26472,2647
+Z26,Canal Street,Earthquake,12.9018,77.677,40555,4,9,Good,26,2026,54073,5406
+Z27,Highfield,Cyclone,12.9177,77.5595,6417,5,29,Partial,5,400,10695,1068
+Z28,Quarry Lane,Wildfire,12.9607,77.6182,16040,3,21,Good,7,601,16040,1604
+Z29,Orchard Town,Wildfire,12.9886,77.6028,8181,2,35,Blocked,2,204,5454,545
+Z30,University Belt,Flood,12.9152,77.6821,5550,4,33,Good,2,276,7400,740
